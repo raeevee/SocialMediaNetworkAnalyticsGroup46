@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="luffy"/>
+<node id="zoro"/>
+<node id="sanji"/>
+<node id="nami"/>
+<node id="chopper"/>
+<node id="usopp"/>
+<node id="jinbei"/>
+<node id="robin"/>
+<node id="franky"/>
+<node id="brook"/>
+<edge source="luffy" target="chopper">
+  <data key="d0">116</data>
+</edge>
+<edge source="luffy" target="zoro">
+  <data key="d0">270</data>
+</edge>
+<edge source="luffy" target="brook">
+  <data key="d0">94</data>
+</edge>
+<edge source="luffy" target="robin">
+  <data key="d0">201</data>
+</edge>
+<edge source="luffy" target="franky">
+  <data key="d0">94</data>
+</edge>
+<edge source="luffy" target="nami">
+  <data key="d0">152</data>
+</edge>
+<edge source="luffy" target="sanji">
+  <data key="d0">173</data>
+</edge>
+<edge source="luffy" target="usopp">
+  <data key="d0">114</data>
+</edge>
+<edge source="luffy" target="jinbei">
+  <data key="d0">24</data>
+</edge>
+<edge source="zoro" target="chopper">
+  <data key="d0">71</data>
+</edge>
+<edge source="zoro" target="brook">
+  <data key="d0">70</data>
+</edge>
+<edge source="zoro" target="franky">
+  <data key="d0">67</data>
+</edge>
+<edge source="zoro" target="nami">
+  <data key="d0">89</data>
+</edge>
+<edge source="zoro" target="robin">
+  <data key="d0">110</data>
+</edge>
+<edge source="zoro" target="sanji">
+  <data key="d0">198</data>
+</edge>
+<edge source="zoro" target="usopp">
+  <data key="d0">77</data>
+</edge>
+<edge source="zoro" target="jinbei">
+  <data key="d0">19</data>
+</edge>
+<edge source="sanji" target="brook">
+  <data key="d0">74</data>
+</edge>
+<edge source="sanji" target="usopp">
+  <data key="d0">82</data>
+</edge>
+<edge source="sanji" target="chopper">
+  <data key="d0">81</data>
+</edge>
+<edge source="sanji" target="franky">
+  <data key="d0">78</data>
+</edge>
+<edge source="sanji" target="nami">
+  <data key="d0">104</data>
+</edge>
+<edge source="sanji" target="robin">
+  <data key="d0">122</data>
+</edge>
+<edge source="sanji" target="jinbei">
+  <data key="d0">22</data>
+</edge>
+<edge source="nami" target="robin">
+  <data key="d0">147</data>
+</edge>
+<edge source="nami" target="brook">
+  <data key="d0">65</data>
+</edge>
+<edge source="nami" target="chopper">
+  <data key="d0">82</data>
+</edge>
+<edge source="nami" target="franky">
+  <data key="d0">66</data>
+</edge>
+<edge source="nami" target="usopp">
+  <data key="d0">73</data>
+</edge>
+<edge source="nami" target="jinbei">
+  <data key="d0">14</data>
+</edge>
+<edge source="chopper" target="brook">
+  <data key="d0">84</data>
+</edge>
+<edge source="chopper" target="jinbei">
+  <data key="d0">13</data>
+</edge>
+<edge source="chopper" target="robin">
+  <data key="d0">98</data>
+</edge>
+<edge source="chopper" target="usopp">
+  <data key="d0">70</data>
+</edge>
+<edge source="chopper" target="franky">
+  <data key="d0">79</data>
+</edge>
+<edge source="usopp" target="brook">
+  <data key="d0">70</data>
+</edge>
+<edge source="usopp" target="jinbei">
+  <data key="d0">18</data>
+</edge>
+<edge source="usopp" target="robin">
+  <data key="d0">84</data>
+</edge>
+<edge source="usopp" target="franky">
+  <data key="d0">76</data>
+</edge>
+<edge source="jinbei" target="brook">
+  <data key="d0">22</data>
+</edge>
+<edge source="jinbei" target="robin">
+  <data key="d0">19</data>
+</edge>
+<edge source="jinbei" target="franky">
+  <data key="d0">18</data>
+</edge>
+<edge source="robin" target="brook">
+  <data key="d0">100</data>
+</edge>
+<edge source="robin" target="franky">
+  <data key="d0">113</data>
+</edge>
+<edge source="franky" target="brook">
+  <data key="d0">74</data>
+</edge>
+</graph></graphml>
